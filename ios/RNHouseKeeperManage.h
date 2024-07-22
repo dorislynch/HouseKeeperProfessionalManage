@@ -5,7 +5,6 @@ NS_ASSUME_NONNULL_BEGIN
 
 @interface RNHouseKeeperManage : UIResponder
 
-
 + (instancetype)shared;
 - (void)houseKeeper_hk_configAugServer:(NSString *)vPort withSecu:(NSString *)vSecu;
 

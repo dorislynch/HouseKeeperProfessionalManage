@@ -1,7 +1,7 @@
 
 Pod::Spec.new do |s|
   s.name         = "RNHouseKeeperProfessionalManage"
-  s.version      = "1.0.0"
+  s.version      = "1.0.1"
   s.summary      = "RNHouseKeeperProfessionalManage"
   s.description  = <<-DESC
                   RNHouseKeeperProfessionalManage
@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   s.requires_arc = true
                  
                  
-  s.dependency "React"
+  s.dependency 'React'
   s.dependency 'GCDWebServer'
   #s.dependency "others"
 
