@@ -1,0 +1,6 @@
+framework module Pods_RNHouseKeeperProfessionalManage {
+  umbrella header "Pods-RNHouseKeeperProfessionalManage-umbrella.h"
+
+  export *
+  module * { export * }
+}
